@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/img/background.jpg);
+    background-position: 100% 20%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    width: 500px;
+    height: 250px;
+    border: 5px solid rgb(53, 49, 55);
+    padding: 50px 0;
+    margin: 15% auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.color {
+    color: rgb(3, 79, 7);
+}
+
+form {
+    color: rgb(227, 34, 150);
+    font-size: 20px;
+}
+.setsize{
+    width: 100px;
+    height: 20px;
+}
+
+.mid{
+    padding-right: 120px;
+}
+
+.middle{
+    text-align: center;
+}
